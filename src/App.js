@@ -12,11 +12,11 @@ function App() {
   
   return (
     <Router>
-      <div className="container w-100 vh-100 pa4 ba center dt">
+      <div className="container w-100 vh-100 pa4 center dt">
         <div className="container__image image-left">
           <img src={Flower} alt="flower" className="w-20-ns w-20 fixed"/>
         </div>
-        <div className="container__content-background ba b--yellow pa4 dtc v-mid center w-100">
+        <div className="container__content-background b--yellow pa4 dtc v-mid center w-100">
           <div className="container__content-nav bw center w-50-ns w-100-m">
             <Switch>
               <Route path="/" exact component={Home} />

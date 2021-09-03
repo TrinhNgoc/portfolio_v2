@@ -5,7 +5,7 @@ const Contact = () => {
     <div>
       <div className="container__content center">
       <div className="container__content-header">
-        <h1 className="dim black b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns">Contact</h1>
+        <h1 className="dim black b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns shiny">Contact</h1>
       </div>
       <div className="container__content-body">
         <div className="pa3 ph5-ns">

@@ -5,7 +5,7 @@ const Projects = () => {
     <div>
       <div className="container__content bw center">
       <div className="container__content-header">
-        <h1 className="dim black b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns">Projects</h1>
+        <h1 className="dim black b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns shiny">Projects</h1>
       </div>
       <div className="container__content-body">
         <div className="pa3 ph5-ns">
