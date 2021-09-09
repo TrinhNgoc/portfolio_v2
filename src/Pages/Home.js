@@ -1,13 +1,28 @@
-import React from 'react'
+import React from 'react';
+import Sparkles from 'react-sparkle';
 
 const Home = () => {
 
   return (
-    <div className="container__content bw center">
+    <div className="container__content bw center bg-white-30">
       <div className="container__content-header">
-        <h1 className="b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns shiny">
-          Hello!
-        </h1>
+        <span className="relative">
+          <h1 className="b f1 f-headline-ns db mb3 mb4-ns pa3 ph5-ns shiny">
+            <span>
+              Hello!
+            </span>
+          </h1>
+          <Sparkles
+            color="#ffdf00"
+            count={10}
+            minSize={5}
+            maxSize={15}
+            overflowPx={30}
+            fadeOutSpeed={10}
+            newSparkleOnFadeOut={true}
+            flicker={true}
+          />
+        </span>
       </div>
       <div className="container__content-body">
         <div className="pa3 pa5-ns">
