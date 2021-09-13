@@ -2,7 +2,6 @@ import React from 'react';
 import { motion } from "framer-motion";
 
 const FadeInLeft = (props) => {
-  console.log(props)
   return (
     <motion.p 
       className={`${props.fontSize} lh-copy measure`}

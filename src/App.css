@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Shardee";
   src: url("./assets/fonts/Shardee.ttf") format("truetype");
+  font-display: swap;
 }
 
 .container {

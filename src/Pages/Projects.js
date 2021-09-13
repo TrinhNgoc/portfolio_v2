@@ -24,9 +24,6 @@ const Projects = () => {
             <FadeInLeft fontSize="f6" duration="3.5">
             Websites: <a className="link dim green" href="https://www.waimeavalley.net/" target="_blank" rel="noopener noreferrer">Waimea Valley</a> (AirshipCMS), <a className="link dim green" href="https://edeninlove.com/" target="_blank" rel="noopener noreferrer">Eden In Love</a> (Shopify), <a className="link dim green" href="https://www.maoorganicfarms.org/" target="_blank" rel="noopener noreferrer">Mao Organic Farms</a> (SquareSpace), <a className="link dim green" href="https://www.imitours.com/" target="_blank" rel="noopener noreferrer">Imi Tours</a> (ExpressEngine)
             </FadeInLeft>
-            {/* <FadeInLeft fontSize="f6" duration="4">
-              For more details, here's my Resume
-            </FadeInLeft> */}
           </div>
         </div>
       </div>
