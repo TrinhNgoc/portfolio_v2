@@ -18,6 +18,9 @@ const Projects = () => {
             <FadeInLeft fontSize="f6" duration="2.5">
               <a className="link dim green" href="https://chatapp-trinh.netlify.app/" target="_blank" rel="noopener noreferrer">Chat Application</a> - ReactJS, NodeJS, Stream Chat
             </FadeInLeft>
+            <FadeInLeft fontSize="f6" duration="2.5">
+              <a className="link dim green" href="https://github.com/TrinhNgoc/Netflix" target="_blank" rel="noopener noreferrer">Netflix Clone</a> - ReactJS, Firebase, Styled Components
+            </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="3">
               Older Projects are on <a className="link dim green" href="https://github.com/TrinhNgoc" target="_blank" rel="noopener noreferrer">Github</a>
             </FadeInLeft>
