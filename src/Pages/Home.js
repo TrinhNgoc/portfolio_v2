@@ -15,7 +15,7 @@ const Home = () => {
             Jenny Nguyen. Frontend Developer. Honolulu, Hawaii.
           </FadeInLeft>
           <FadeInLeft fontSize="f5" duration="2.5">
-            I build and design responsive websites for over 5 years. When I'm not making websites, I'm either drawing, working out, or playing with my cats.
+            I have been building and designing responsive websites for over 5 years. When I'm not making websites, I'm enjoy drawing, exercising, or playing with my cats Majin and Mugi.
           </FadeInLeft>
           <FadeInLeft fontSize="f5" duration="3">
             This portfolio is inspired by the Sailor Moon Crystal Eyecatch. An eyecatch is a scene or illustration used to begin and end a commercial break on Japanese TV shows.
