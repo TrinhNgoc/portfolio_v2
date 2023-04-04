@@ -13,7 +13,7 @@ const Projects = () => {
         <div className="pa3 ph5-ns">
           <div className="dib">
             <FadeInLeft fontSize="f5" duration="2">
-              I am currently learning ThreeJS, so here's what I learned so far: <a className="link dim green" href="https://replit.com/@Trinh-Ngoc" target="_blank" rel="noopener noreferrer">(Also on Replit)</a>
+              I am currently learning Three.js, so here's what I learned so far: <a className="link dim green" href="https://replit.com/@Trinh-Ngoc" target="_blank" rel="noopener noreferrer">(Also on Replit)</a>
             </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="2.5">
               <a className="link dim green" href="https://threejs-galaxy-generator.trinh-ngoc.repl.co/" target="_blank" rel="noopener noreferrer">Galaxy Generator</a>
