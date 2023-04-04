@@ -13,19 +13,25 @@ const Projects = () => {
         <div className="pa3 ph5-ns">
           <div className="dib">
             <FadeInLeft fontSize="f5" duration="2">
-              Check out my recent projects:
+              I am currently learning ThreeJS, so here's what I learned so far: <a className="link dim green" href="https://replit.com/@Trinh-Ngoc" target="_blank" rel="noopener noreferrer">(Also on Replit)</a>
             </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="2.5">
-              <a className="link dim green" href="https://chatapp-trinh.netlify.app/" target="_blank" rel="noopener noreferrer">Chat Application</a> - ReactJS, NodeJS, Stream Chat
+              <a className="link dim green" href="https://threejs-galaxy-generator.trinh-ngoc.repl.co/" target="_blank" rel="noopener noreferrer">Galaxy Generator</a>
             </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="2.5">
-              <a className="link dim green" href="https://github.com/TrinhNgoc/Netflix" target="_blank" rel="noopener noreferrer">Netflix Clone</a> - ReactJS, Firebase, Styled Components
+              <a className="link dim green" href="https://threejs-scroll-based-animation.trinh-ngoc.repl.co/" target="_blank" rel="noopener noreferrer">Scroll-based Animation</a>
+            </FadeInLeft>
+            <FadeInLeft fontSize="f6" duration="2.5">
+              <a className="link dim green" href="https://threejs-shadows.trinh-ngoc.repl.co/" target="_blank" rel="noopener noreferrer">Animation, Lights, and Shadows</a>
+            </FadeInLeft>
+            <FadeInLeft fontSize="f6" duration="2.5">
+              <a className="link dim green" href="https://webgl-3d-text-seven-delta.vercel.app/" target="_blank" rel="noopener noreferrer">3D Text</a> - Vercel, Vite
             </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="3">
               Older Projects are on <a className="link dim green" href="https://github.com/TrinhNgoc" target="_blank" rel="noopener noreferrer">Github</a>
             </FadeInLeft>
             <FadeInLeft fontSize="f6" duration="3.5">
-            Websites: <a className="link dim green" href="https://www.waimeavalley.net/" target="_blank" rel="noopener noreferrer">Waimea Valley</a> (AirshipCMS), <a className="link dim green" href="https://edeninlove.com/" target="_blank" rel="noopener noreferrer">Eden In Love</a> (Shopify), <a className="link dim green" href="https://www.maoorganicfarms.org/" target="_blank" rel="noopener noreferrer">Mao Organic Farms</a> (SquareSpace), <a className="link dim green" href="https://www.imitours.com/" target="_blank" rel="noopener noreferrer">Imi Tours</a> (ExpressEngine)
+            Websites: <a className="link dim green" href="https://www.waimeavalley.net/" target="_blank" rel="noopener noreferrer">Waimea Valley</a> (formerly on AirshipCMS, now on SquareSpace), <a className="link dim green" href="https://edeninlove.com/" target="_blank" rel="noopener noreferrer">Eden In Love</a> (Shopify), <a className="link dim green" href="https://www.maoorganicfarms.org/" target="_blank" rel="noopener noreferrer">Mao Organic Farms</a> (SquareSpace), <a className="link dim green" href="https://www.imitours.com/" target="_blank" rel="noopener noreferrer">Imi Tours</a> (ExpressEngine)
             </FadeInLeft>
           </div>
         </div>
@@ -34,5 +40,7 @@ const Projects = () => {
     </div>
   )
 }
+
+
 
 export default Projects;
